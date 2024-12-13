@@ -4,7 +4,7 @@ import ReactDOM from "react-dom/client";
 
 // Define the component
 function WelcomeMessage() {
-  const userName = "John";
+  const userName = "Aryan";
   return <h1>Hello, {userName}!</h1>;
 }
 
